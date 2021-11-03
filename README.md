@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sightings
 
 ## Project Overview
 The purpose of this analysis was to create a webpage and dynamic table of UFO sighting data. The featured table needed to have filtering capability with JavaScript. The user should be able to filter the UFO sighting data by: date, city, state, country, shape.
